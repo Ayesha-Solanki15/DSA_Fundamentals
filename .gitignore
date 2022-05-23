@@ -1,2 +1,6 @@
 *.exe
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+>>>>>>> ab8be405a299f4eb0e5daa3b2d036c5e6450b9ea
